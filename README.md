@@ -1,3 +1,3 @@
 # rust
 
-  - init
+  - init: 
