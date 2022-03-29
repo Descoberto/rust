@@ -1,3 +1,1 @@
-# rust
-
-  - init: D.
+# My Rust Portfolio
